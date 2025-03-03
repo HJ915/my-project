@@ -1,2 +1,4 @@
 The names of the studnets in class:
 Jackson Hill
+Braden Lee
+4c2a686 (Added my name to names.txt)
