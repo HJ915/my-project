@@ -1,0 +1,7 @@
+THis is an example to show git methods.
+
+I am making multiple edites for the logs.
+
+With this I will be able to manipulate the logs.
+
+For example, reset, revert, etc.
